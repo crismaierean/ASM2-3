@@ -1,0 +1,8 @@
+﻿  contactHelpers.c
+c:\users\cristian\source\repos\assignment_1\assignment_1\contacthelpers.c(92): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\cristian\source\repos\assignment_1\assignment_1\contacthelpers.c(131): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\cristian\source\repos\assignment_1\assignment_1\contacthelpers.c(101): warning C4715: 'getInt': not all control paths return a value
+c:\users\cristian\source\repos\assignment_1\assignment_1\contacthelpers.c(119): warning C4715: 'getIntInRange': not all control paths return a value
+  Assignment_1.vcxproj -> C:\Users\Cristian\source\repos\Assignment_1\Debug\Assignment_1.exe
